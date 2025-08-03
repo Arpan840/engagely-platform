@@ -1,0 +1,17 @@
+export const messages = {
+	EMAIL_ALREADY_REGISTERED: 'Email already registered.',
+	USER_REGISTERED_SUCCESSFULLY: 'User registered successfully.',
+    EMAIL_NOT_FOUND: 'Email not found.',
+    INVALID_PASSWORD: 'Invalid password.',
+    USER_LOGIN_SUCCESSFUL: 'User login successful.',
+    USER_LOGOUT_SUCCESSFUL: 'User logout successful.',
+    UNAUTHORIZED_ACCESS: 'Unauthorized access. Please log in as admin.',
+    INVALID_TOKEN: 'Invalid or expired token.',
+    USER_NOT_FOUND: 'User not found.',
+    USER_UPDATED_SUCCESSFULLY: 'User updated successfully.',
+    USER_DELETED_SUCCESSFULLY: 'User deleted successfully.',
+    INTERNAL_SERVER_ERROR: 'Internal server error. Please try again later.',
+    INVALID_REQUEST: 'Invalid request. Please check your input.',
+    TOKEN_NOT_PROVIDED: 'Token not provided. Please log in.',
+    MISSING_FIELDS: 'Required fields are missing. Please provide all necessary information.',
+};
