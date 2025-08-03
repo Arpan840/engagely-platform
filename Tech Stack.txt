@@ -1,0 +1,27 @@
+# Engagely Tech Stack
+
+## Backend API
+- **Node.js + Express.js**
+  - Scalable and efficient REST API backend.
+  - Preferred due to fast iteration and rich open-source ecosystem.
+
+## Frontend
+- **React.js**
+  - Responsive, modern single-page application interface.
+
+## Database
+- **PostgreSQL**
+  - Production-grade relational database.
+  - For getting started fast, SQLite is acceptable for local/MVP development.
+
+## AI/ML Microservice
+- **Python (FastAPI or Flask)**
+  - Serves sentiment analysis predictions.
+  - Integrates with Hugging Face or scikit-learn models.
+
+## Other Tools
+- **Docker**: Containerization for easy deployment.
+- **Git**: Version control.
+- **Testing frameworks**: Jest (Node), Pytest (Python), React Testing Library (Frontend).
+
+---
